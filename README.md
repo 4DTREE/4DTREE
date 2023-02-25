@@ -9,15 +9,11 @@ I'm a student majoring in Astronomy at USTC.
 欢迎访问我的个人主页🥳👉🏻[4DTREE's Homepage](https://4dtree.github.io)👈🏻。
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/4DTREE/count.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4DTREE&layout=compact)](https://github.com/4DTREE/github-readme-stats)
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
-
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![4DTREE's GitHub stats](https://github-readme-stats.vercel.app/api?username=4DTREE&show_icons=true&theme=tokyonight)
 
 <p align="center">
 <a href="https://fxxkpython.com">
