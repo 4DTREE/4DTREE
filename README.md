@@ -17,7 +17,9 @@ Welcome! my No.<img src="https://profile-counter.glitch.me/4DTREE/count.svg" alt
 </a>
 </p>
 
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4DTREE&show_icons=true&theme=tokyonight" alt="4DTREE's GitHub stats"/>
+</p>
 
 <p align="center">
 <a href="https://fxxkpython.com">
