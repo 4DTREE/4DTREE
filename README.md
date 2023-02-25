@@ -13,22 +13,22 @@ Welcome! my No.<img src="https://profile-counter.glitch.me/4DTREE/count.svg" alt
 
 <p align="center">
 <a href="https://github.com/4DTREE/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4DTREE&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4DTREE&layout=compact" alt="Top Langs"/>
 </a>
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=4DTREE&show_icons=true&theme=tokyonight" alt="4DTREE's GitHub stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=4DTREE&show_icons=true" alt="4DTREE's GitHub stats"/>
 </p>
 
 <p align="center">
 <a href="https://fxxkpython.com">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=4DTREE&row=1&column=4&theme=tokyonight"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=4DTREE&row=1&column=4"/>
 </a>
 </p>
 
 <p align="center">
 <a href="https://fxxkpython.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=4DTREE&hide=contribs&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=4DTREE&hide=contribs"/>
 </a>
 </p>
