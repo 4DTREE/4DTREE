@@ -13,7 +13,7 @@ Welcome! my No.<img src="https://profile-counter.glitch.me/4DTREE/count.svg" alt
 
 <p align="center">
 <a href="https://github.com/4DTREE/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4DTREE&layout=compact" alt="Top Langs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4DTREE&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </a>
 </p>
 
@@ -23,12 +23,12 @@ Welcome! my No.<img src="https://profile-counter.glitch.me/4DTREE/count.svg" alt
 
 <p align="center">
 <a href="https://fxxkpython.com">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=4DTREE&row=1&column=4"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=4DTREE&row=1&column=4&theme=tokyonight"/>
 </a>
 </p>
 
 <p align="center">
 <a href="https://fxxkpython.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=4DTREE&hide=contribs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=4DTREE&hide=contribs&theme=tokyonight"/>
 </a>
 </p>
