@@ -8,17 +8,14 @@ I'm a student majoring in Astronomy at USTC.
 <p align="center">
 欢迎访问我的个人主页🥳👉🏻[4DTREE's Homepage](https://4dtree.github.io)👈🏻。
 </p>
-
+</p>
+<p align="center">
 Welcome! my No.<img src="https://profile-counter.glitch.me/4DTREE/count.svg" alt="Visitor Count"/> visitor!
-
+</p>
 <p align="center">
 <a href="https://github.com/4DTREE/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4DTREE&layout=compact" alt="Top Langs"/>
 </a>
-</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=4DTREE&show_icons=true" alt="4DTREE's GitHub stats"/>
 </p>
 
 <p align="center">
