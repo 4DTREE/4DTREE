@@ -10,7 +10,7 @@ I'm a student majoring in Astronomy at USTC.
 </p>
 </p>
 <p align="center">
-Welcome! my No.<img src="https://profile-counter.glitch.me/4DTREE/count.svg" alt="Visitor Count"/> visitor!
+Welcome! My <img src="https://profile-counter.glitch.me/4DTREE/count.svg" alt="Visitor Count"/> visitor!
 </p>
 <p align="center">
 <a href="https://github.com/4DTREE/github-readme-stats">
