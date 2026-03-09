@@ -6,7 +6,7 @@ I'm a student majoring in Astronomy at USTC.
 中国科大天文系在读。
 </p>
 <p align="center">
-欢迎访问我的个人主页🥳👉🏻[4DTREE's Homepage](https://4dtree.github.io)👈🏻。
+欢迎访问我的个人主页🥳👉🏻[4DTREE's Homepage](https://4dtree.github.io)
 </p>
 </p>
 <p align="center">
